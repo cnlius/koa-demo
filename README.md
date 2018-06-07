@@ -1,5 +1,5 @@
 
-#### 安装工具
+#### 运行项目
 ```
 $ npm install
 $ typings install
